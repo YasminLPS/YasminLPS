@@ -1,8 +1,6 @@
 ### Hi 👋
 
-- I work with Back-End 💻
-- I am studying JS and .Net 📚
-- My pronouns is she/her ♀️
+- I work with Back-End 💻  - I am studying JS and .Net 📚   - My pronouns is she/her ♀️
 
 <div align="center">
   <a href="https://github.com/YasminLPS">
