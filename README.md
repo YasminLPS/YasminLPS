@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/YasminLPS">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YasminLPS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img img width="50%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLPS&layout=compact&langs_count=7&theme="/>
+  <img img width="50%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminLPS&layout=compact&langs_count=7&theme="tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
