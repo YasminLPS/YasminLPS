@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- I work with Full Stack development 💻  
-- I am studying React, PHP and more about APIs 📚   
+- I work and studying Front end and Back end development 💻
+- I study Information System at Estacio de Sá College 📚   
 - My pronouns is she/her ♀️
 
 <div align="center">
