@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- I work with Back-End 💻  
-- I am studying JS and ASP.Net Core MVC 📚   
+- I work with Full Stack development 💻  
+- I am studying React, PHP and more about APIs 📚   
 - My pronouns is she/her ♀️
 
 <div align="center">
@@ -11,10 +11,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Yas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/4ec658c0776a688afa69ee9b526a75d7.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
