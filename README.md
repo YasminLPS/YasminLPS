@@ -1,15 +1,10 @@
 ### 👋 Hello! 
-I'm a beginner in Data Engineering, studying Python, Linux, and Machine Learning. I'm passionate about gaining knowledge and experience in the field. Currently, my focus is on honing my skills in Python, Linux, and Machine Learning.
 
 🐍🐧🤖 Python is my main programming language, and I'm constantly exploring its powerful libraries for data analysis, manipulation, and visualization. I'm always seeking challenging and interesting projects that allow me to apply my Python knowledge.
 
-💻 I'm a strong advocate for the Linux operating system, leveraging its advantages in terms of customization, security, and scalability. I'm continuously expanding my knowledge of the command line, automation scripts, and server administration.
-
 📊🤓 Machine Learning is a field that deeply fascinates me. I'm studying and applying machine learning techniques to solve real-world problems. From classical algorithms to neural networks and deep learning, I'm diving deep into this exciting field.
 
-📚 I'm always seeking new resources and learning from the developer community. My goal is to contribute to open-source projects and share my knowledge with other Data Engineering enthusiasts.
-
-🌟 If you're interested in collaborating on projects or discussing ideas related to Data Engineering, Python, Linux, or Machine Learning, feel free to reach out! Let's learn together and build a data-driven future! ✨ 
+📚 I'm always seeking new resources and learning from the developer community.
 
 <div align="center">
   <a href="https://github.com/YasminLPS">
